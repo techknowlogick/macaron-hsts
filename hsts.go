@@ -1,4 +1,4 @@
-package hsts
+package hsts // import "src.techknowlogick.com/macaron-hsts"
 
 import (
 	"fmt"
